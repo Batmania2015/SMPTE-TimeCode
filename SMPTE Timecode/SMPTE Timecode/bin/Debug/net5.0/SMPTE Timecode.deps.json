@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SMPTE Timecode/1.0.0": {
+        "runtime": {
+          "SMPTE Timecode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SMPTE Timecode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
